@@ -63,9 +63,3 @@ npm test -- --watchAll=false
 npm run build
 ```
 
-## 不要提交的内容
-
-- `rag_llm_server/.env`
-- `rag_llm_server/data/app.db`（本地账号和会话）
-- `node_modules/`、`.venv/`、`build/`
-
